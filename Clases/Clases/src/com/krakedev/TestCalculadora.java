@@ -23,7 +23,9 @@ public class TestCalculadora {
 	      r3 = c1.multiplicar(10, 5);
 	      System.out.println("Resultado Multiplicacion: " + r3);
 	      
-
+	      double r4;
+	      r4 = c1.dividir(6, 2);
+	      System.out.println("Resultado Multiplicacion: " + r4);
 	}
 
 }
