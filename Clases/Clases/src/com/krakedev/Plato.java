@@ -7,6 +7,13 @@ public class Plato {
 	private float precio;
 	private boolean disponible;
 	
+	public Plato(String nombre, String tipo, float precio, boolean disponible) {
+		this.nombre = nombre;
+		this.tipo = tipo;
+		this.precio = precio;
+		this.disponible = disponible;
+	}
+	
 	public String getNombre() {
 		return nombre;
 	}
