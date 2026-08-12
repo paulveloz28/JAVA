@@ -32,6 +32,14 @@ public class TestCalculadora {
 	      System.out.println("Resultado Promedio: " + r5);
 	      
 	      c1.mostrarResultado();
+	      
+	      double r6;
+	      r6 = c1.calcularDescuento(1000, 50);
+	      System.out.println("Precio con descuento: " + r6);
+	      
+	      
+	        
 	}
+	
 
 }
