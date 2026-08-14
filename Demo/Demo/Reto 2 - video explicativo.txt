@@ -1,0 +1,4 @@
+RETO 2: CLASES Y OBJETOS CON ENCAPSULAMIENTO
+
+Video de la explicación y desarrollo del reto:
+https://drive.google.com/file/d/1PAXKoz9v8RbpYivjzJa5i7Ml1fRfqFDr/view?usp=sharing
